@@ -25,13 +25,13 @@ In the ever-evolving landscape of web3 technology, **Stream**Connect emerges as 
 
 - **Payment Processing:** **Stream**Connect facilitates efficient and secure payment processing, enabling you to accept cryptocurrencies, stablecoins, tokens, and NFTs.
 
-- **Comprehensive Documentation:** Detailed documentation and guides make it easy to get started and leverage StreamConnect's capabilities.
+- **Comprehensive Documentation:** Detailed documentation and guides make it easy to get started and leverage **Stream**Connect's capabilities.
 
 ## Getting Started
 
 To get started with **Stream**Connect, follow these simple steps:
 
-1. **Installation:** Install StreamConnect by running `npm install streamconnect` or `yarn add streamconnect`.
+1. **Installation:** Install **Stream**Connect by running `npm install streamconnect` or `yarn add streamconnect`.
 
 2. **Configuration:** Configure **Stream**Connect with your preferred blockchain network and e-commerce platform settings.
 
@@ -55,7 +55,7 @@ const myStreamConnectApp = new streamconnect(config);
 myStreamConnectApp.processPayment(...);
 myStreamConnectApp.createTransaction(...);
 
-// Explore the full range of **Stream**Connect's features in the documentation.
+// Explore the full range of StreamConnect's features in the documentation.
 ```
 
 ## Documentation
