@@ -21,7 +21,7 @@ In the ever-evolving landscape of web3 technology, **Stream**Connect emerges as 
 
 - **Versatility:** **Stream**Connect is compatible with a wide range of blockchain platforms, including Solana and EVM-compatible chains, ensuring flexibility in your Web3 projects.
 
-- **Seamless Integration:** Effortlessly integrate web3 functionality into e-commerce platforms and applications, enhancing the user experience and expanding your payment options, thanks to **Stream**Payments CommerceKit.
+- **Seamless Integration:** Effortlessly integrate web3 functionality into e-commerce platforms and applications, enhancing the user experience and expanding your payment options, thanks to **Stream**Payments Commerce**Kit**.
 
 - **Payment Processing:** **Stream**Connect facilitates efficient and secure payment processing, enabling you to accept cryptocurrencies, stablecoins, tokens, and NFTs, powered by Stream Payment Gateway.
 
