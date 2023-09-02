@@ -56,3 +56,21 @@ myStreamConnectApp.processPayment(...);
 myStreamConnectApp.createTransaction(...);
 
 // Explore the full range of StreamConnect's features in the documentation.
+
+## Documentation
+
+For comprehensive documentation and detailed guides, visit the **Stream**Connect Documentation.
+
+## Contribution
+
+We welcome contributions to StreamConnect! If you'd like to contribute to the project, please review our Contribution Guidelines.
+
+## Community Support
+
+For assistance or questions, join our community on Slack or Discord in the #streamprotocol channel. We value your feedback, bug reports, feature requests, and enhancements via GitHub issues.
+
+## License
+
+**Stream**Connect is licensed under the MIT License. For details, please see the LICENSE file.
+
+MIT © Stream Protocol
