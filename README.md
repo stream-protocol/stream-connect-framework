@@ -1,9 +1,6 @@
+# **Stream**Connect (Proof of Concept)
 
-
-```markdown
-# **Stream**Connect
-
-Stream Protocol´s **Stream**Connect is a versatile development framework designed to empower you to effortlessly create, deploy, and oversee Web3 applications and payments. With **Stream**Connect, you can seamlessly integrate Web3 functionality across e-commerce platforms, Solana, and any EVM-compatible blockchain.
+Stream Protocol's **Stream**Connect is a versatile development framework designed to empower you to effortlessly create, deploy, and oversee Web3 applications and payments. With **Stream**Connect, you can seamlessly integrate Web3 functionality across e-commerce platforms, Solana, and any EVM-compatible blockchain.
 
 ## Table of Contents
 
@@ -36,9 +33,9 @@ To get started with **Stream**Connect, follow these simple steps:
 
 1. **Installation:** Install StreamConnect by running `npm install streamconnect` or `yarn add streamconnect`.
 
-2. **Configuration:** Configure StreamConnect with your preferred blockchain network and e-commerce platform settings.
+2. **Configuration:** Configure **Stream**Connect with your preferred blockchain network and e-commerce platform settings.
 
-3. **Integration:** Begin integrating StreamConnect into your web3 applications and e-commerce platforms to unlock a world of possibilities.
+3. **Integration:** Begin integrating **Stream**Connect into your web3 applications and e-commerce platforms to unlock a world of possibilities.
 
 ## Usage
 
@@ -63,7 +60,7 @@ myStreamConnectApp.createTransaction(...);
 
 ## Documentation
 
-For comprehensive documentation and detailed guides, visit the [**Stream**Connect Documentation](https://portal.streampayments.org).
+For comprehensive documentation and detailed guides, visit the [**Stream**Connect Documentation](https://portal.streamconnect.dev).
 
 ## Contribution
 
