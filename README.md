@@ -75,4 +75,3 @@ For assistance or questions, join our community on Slack or Discord in the `#str
 **Stream**Connect is licensed under the MIT License. For details, please see the [LICENSE](LICENSE) file.
 
 MIT © Stream Protocol
-```
