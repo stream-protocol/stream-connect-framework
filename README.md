@@ -15,7 +15,7 @@ Stream Protocol's **Stream**Connect is a versatile development framework designe
 
 ## Introduction
 
-In the ever-evolving landscape of web3 technology, **Stream**Connect emerges as a comprehensive solution to simplify web3 application development, payment integration, and more. Whether you are building applications, games, or e-commerce platforms, **Stream**Connect offers a unified framework that spans e-commerce, Solana, and EVM-compatible blockchains, powered by **Stream**Payments CommerceKit and Stream Payment Gateway.
+In the ever-evolving landscape of web3 technology, **Stream**Connect emerges as a comprehensive solution to simplify web3 application development, payment integration, and more. Whether you are building applications, games, or e-commerce platforms, **Stream**Connect offers a unified framework that spans e-commerce, Solana, and EVM-compatible blockchains, powered by **Stream**Payments Commerce**Kit** and Stream Payment Gateway.
 
 ## Key Features
 
